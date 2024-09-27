@@ -2,10 +2,10 @@
 
 ## Steps run the project
 
-''' bash
+```bash
 conda create -n echatbot python=3.8 -y
-'''
+```
 
-''' bash
+```bash
 conda activate echatbot
-'''
+```
